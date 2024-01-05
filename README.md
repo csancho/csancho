@@ -1,10 +1,14 @@
-### Hi there 👋
+### Hello, I'm Carlos 👋
 
-- 🔭 I’m currently working on Machine Learning & DevOps (SRE)...
-- 🌱 I’m currently learning Machine Learning Security
-- 👯 I’m looking to collaborate on Zent Cash
-- 🤔 I’m looking for help with Automation, Kubernetes, Helm Charts, MLOps
-- 💬 Ask me about Azure, Kubernetes, Helm Chart, Scripting, Zent Cash
-- 📫 How to reach me: https://www.instagram.com/k4rl0ss4nch0/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I love Harry Potter books, I learned sign language...
+- 🔭 Innovating in Machine Learning, DevOps (SRE), and as a Data Protection Officer.
+- 🌱 Currently exploring advanced Machine Learning Security and MLOps.
+- 💡 Skilled in automating with Kubernetes, Helm Charts, Azure DevOps, and Jenkins.
+- 🧠 Proficient in Golang, Python, and various scripting languages.
+- 🛠️ Experienced in managing cloud infrastructures, primarily on AWS, and adept in cloud security practices.
+- 💬 Ask me about Azure, Kubernetes, Helm Charts, Scripting, Golang, and Python.
+- 📫 Connect with me: [Instagram](https://www.instagram.com/k4rl0ss4nch0/)
+- 😄 Pronouns: ¡Que Pasaaaaaa Nano!
+- ⚡ Fun fact: A Harry Potter fan and sign language learner. Building a Python-based trading bot leveraging custom indicators for financial trading.
+- 🚀 Passionate about cryptocurrencies, security, and developing automated, efficient solutions.
+- 📚 Active in open-source projects, especially in areas involving cryptocurrencies and security.
+- 🤖 Creating cutting-edge solutions in AI and machine learning, aiming for automation and efficiency.
